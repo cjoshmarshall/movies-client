@@ -1,0 +1,14 @@
+.card-container {
+  margin: 25px auto;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.card-subcontainer {
+  width: 250px;
+  margin: 25px;
+}
+
+.card-innercontainer {
+  margin: 25px;
+}
